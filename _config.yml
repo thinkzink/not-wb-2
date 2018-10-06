@@ -7,11 +7,11 @@ permalink:        pretty
 gem: [jekyll-paginate, jekyll-gists]
 
 # Setup
-title:            Hyde
+title:            Sydney Zink
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Researching in the <a href="https://cs.brown.edu/people/epavlick/students.html" target="_blank">Lunar Lab</a> under <a href="https://cs.brown.edu/people/epavlick/index.html" target="_blank">Ellie Pavlick</a> at Brown University.'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          https://thinkzink.github.io/hyde/
 
 author:
   name:           'Mark Otto'
